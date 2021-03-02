@@ -17,6 +17,8 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in losses (date and amount) over the entire period
 
 
+
+
 PyPoll Challenge:
 
 In this challenge, I will be helping a small, rural town modernize its vote counting process.
